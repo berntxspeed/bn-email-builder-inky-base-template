@@ -7,6 +7,8 @@
 - (edit files in src/pages)
 - (pull final html from dist directory)
 
+NOTE: i've used the /scratch directory to slice up the template and content-area code out of the final /dist file.  
+
 # Foundation for Emails Template
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
