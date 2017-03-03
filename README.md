@@ -8,6 +8,9 @@
 - (pull final html from dist directory)
 
 NOTE: i've used the /scratch directory to slice up the template and content-area code out of the final /dist file.  
+- copy out the raw code from /dist into dirtymarkup.com to add line-breaks and indents, and copy all that into /scratch/formatted_custom.html and /scratch/raw-template.html
+- and as you copy out the content areas from raw_template.html, put them into /scratch/content-areas.html
+- and put the remaining raw template (minus content areas) /scratch/raw-template.html
 
 # Foundation for Emails Template
 
